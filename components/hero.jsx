@@ -46,7 +46,7 @@ const HeroSection = () => {
               Get Started
             </Button>
           </Link>
-          <Link href="https://job-portal-gtss.onrender.com/">
+          <Link href="https://github.com/Dimpal241/job-portal">
             <Button size="lg" variant="outline" className="px-8">
               JobPortal
             </Button>
